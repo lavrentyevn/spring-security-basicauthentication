@@ -27,5 +27,5 @@ If the user has the authority he can access information, which is demonstrated b
 <br/>
 User information is stored in a PostgreSQL database.
 <br/>
-
+<br/>
 <img width="551" alt="Снимок экрана 2023-06-16 в 18 40 21" src="https://github.com/lavrentyevn/spring-security-basicauthentication/assets/111048277/70e4e69c-bbf9-46ba-9906-8d103300a9f4">
