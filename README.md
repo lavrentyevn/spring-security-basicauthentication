@@ -21,9 +21,11 @@ If the user is not authenticated he does not have access to any commands.
 If the user has the authority he can access information, which is demonstrated by 200 status code.
 
 <img width="1200" alt="Снимок экрана 2023-06-16 в 18 41 11" src="https://github.com/lavrentyevn/spring-security-basicauthentication/assets/111048277/daf7e266-a228-4e68-a6f6-d23297461cdd">
+
 <br/>
 <br/>
 <br/>
 User information is stored in a PostgreSQL database.
+<br/>
 
 <img width="551" alt="Снимок экрана 2023-06-16 в 18 40 21" src="https://github.com/lavrentyevn/spring-security-basicauthentication/assets/111048277/70e4e69c-bbf9-46ba-9906-8d103300a9f4">
